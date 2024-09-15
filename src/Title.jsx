@@ -1,7 +1,7 @@
 import { useState } from "react"
 
 function Title({ color }) {
-    const [text, setText] = useState("Hello World!")
+    const [text, setText] = useState("Digite algo")
     const [inputText, setInputText] = useState("")
 
 
